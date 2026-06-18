@@ -10,6 +10,10 @@ Analyzed 9,994 retail sales transactions using MySQL and developed an interactiv
 * Tableau
 * Microsoft Excel
 
+## Live Dashboard
+
+🔗 Tableau Public Dashboard: [View Dashboard](https://public.tableau.com/app/profile/ashwin.r4543/viz/SuperstoreSalesDashboard_17817724302500/SuperStoreDashboard)
+
 ## Dataset
 
 * Sample Superstore Dataset
