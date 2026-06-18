@@ -61,7 +61,7 @@ Performed business analysis using SQL, including:
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Project Structure
 
