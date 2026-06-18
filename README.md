@@ -70,10 +70,15 @@ Performed business analysis using SQL, including:
 ## Project Structure
 
 Retail-Sales-Analysis/
+
 ├── Dataset/
+
 ├── SQL/
+
 ├── Tableau/
+
 ├── Images/
+
 └── README.md
 
 ## Author
