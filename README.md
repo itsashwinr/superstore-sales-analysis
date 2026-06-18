@@ -105,7 +105,7 @@ Retail-Sales-Analysis
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Skills Demonstrated
 
